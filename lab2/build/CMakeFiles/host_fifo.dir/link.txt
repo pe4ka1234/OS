@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/host_fifo.dir/host.cpp.o CMakeFiles/host_fifo.dir/log.cpp.o CMakeFiles/host_fifo.dir/io_timeout.cpp.o CMakeFiles/host_fifo.dir/util.cpp.o CMakeFiles/host_fifo.dir/game.cpp.o CMakeFiles/host_fifo.dir/conn_fifo.cpp.o -o host_fifo  -lpthread 

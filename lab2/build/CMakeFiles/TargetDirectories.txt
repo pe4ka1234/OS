@@ -1,0 +1,5 @@
+/home/nasty/ОСи_Андрей/lab2/build/CMakeFiles/host_fifo.dir
+/home/nasty/ОСи_Андрей/lab2/build/CMakeFiles/host_pipe.dir
+/home/nasty/ОСи_Андрей/lab2/build/CMakeFiles/host_sock.dir
+/home/nasty/ОСи_Андрей/lab2/build/CMakeFiles/edit_cache.dir
+/home/nasty/ОСи_Андрей/lab2/build/CMakeFiles/rebuild_cache.dir

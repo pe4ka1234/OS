@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/host_sock.dir/host.cpp.o CMakeFiles/host_sock.dir/log.cpp.o CMakeFiles/host_sock.dir/io_timeout.cpp.o CMakeFiles/host_sock.dir/util.cpp.o CMakeFiles/host_sock.dir/game.cpp.o CMakeFiles/host_sock.dir/conn_sock.cpp.o -o host_sock  -lpthread 
